@@ -1,0 +1,65 @@
+#contenedor{
+  width:90%;
+  margin:0 auto;
+}
+
+/*body {
+  background-color: rgb(212, 100, 56);
+}*/
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 200%
+}
+p {
+  text-align: justify;
+  font-size: 20px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 15px;
+}
+/*
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+footer {
+  color: blue;
+  text-align: center;
+}*/
+
+div#contenedor{
+  width:100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+div#contenedor section{
+  float: left;
+  width: 65%;
+}
+
+div#contenedor article{
+  float: left;
+  width: 65%;
+}
+
+div#contenedor footer{
+  float: left;
+  width: 100%;
+}
+
+div#contenedor aside{
+  float: right;
+  width: 30%;
+  margin-left: 5%;
+} */
